@@ -11,4 +11,4 @@
 
 ## Start program:
 	./bin/fiat_shamir_server - from server directory
-	./bin/fiat_shamir_client - start client directory
+	./bin/fiat_shamir_client - from client directory
