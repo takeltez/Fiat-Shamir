@@ -10,5 +10,5 @@
 	make/make all - build client application
 
 ## Start program:
-	./server/bin/fiat_shamir_server - start server
-	./client/bin/fiat_shamir_client - start client
+	./bin/fiat_shamir_server - from server directory
+	./bin/fiat_shamir_client - start client directory
