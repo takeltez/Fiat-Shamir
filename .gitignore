@@ -1,0 +1,5 @@
+server/bin/
+server/build/
+server/res/
+client/bin/
+client/build/
